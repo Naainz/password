@@ -13,10 +13,6 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
-### Links
-
-- [Solution](https://www.frontendmentor.io/solutions/password-generator-app-gg4S2VfdYH)
-- [Live Site](https://randpass-fm.netlify.app/)
 
 ### Built with
 
@@ -26,6 +22,3 @@ Users should be able to:
 - Flexbox
 - Desktop-first workflow
 
-## Author
-
-- Frontend Mentor [@Isaiah-B](https://www.frontendmentor.io/profile/Isaiah-B)
